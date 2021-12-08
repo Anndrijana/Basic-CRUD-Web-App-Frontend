@@ -1,5 +1,7 @@
 # Basic-CRUD-Web-Application-Frontend
 
+![21](https://user-images.githubusercontent.com/61964257/145204792-025785f2-2f6f-45e2-9148-54fc2ca40dd6.PNG)
+
 :wrench: This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
@@ -25,3 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## :camera: Some photos of the final project:
